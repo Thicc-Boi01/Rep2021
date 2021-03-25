@@ -1,0 +1,16 @@
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Programing\Week4\obj\Debug\net5.0\Week4.csprojAssemblyReference.cache
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Programing\Week4\obj\Debug\net5.0\Week4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Programing\Week4\obj\Debug\net5.0\Week4.AssemblyInfoInputs.cache
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Programing\Week4\obj\Debug\net5.0\Week4.AssemblyInfo.cs
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Programing\Week4\obj\Debug\net5.0\Week4.csproj.CoreCompileInputs.cache
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Programing\Week4\bin\Debug\net5.0\Week4.exe
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Programing\Week4\bin\Debug\net5.0\Week4.deps.json
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Programing\Week4\bin\Debug\net5.0\Week4.runtimeconfig.json
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Programing\Week4\bin\Debug\net5.0\Week4.runtimeconfig.dev.json
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Programing\Week4\bin\Debug\net5.0\Week4.dll
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Programing\Week4\bin\Debug\net5.0\ref\Week4.dll
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Programing\Week4\bin\Debug\net5.0\Week4.pdb
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Programing\Week4\obj\Debug\net5.0\Week4.dll
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Programing\Week4\obj\Debug\net5.0\ref\Week4.dll
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Programing\Week4\obj\Debug\net5.0\Week4.pdb
+C:\Users\tjc27\Desktop\Swinburne 2021\Programing\Programing\Week4\obj\Debug\net5.0\Week4.genruntimeconfig.cache
